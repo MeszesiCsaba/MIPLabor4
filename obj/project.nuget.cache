@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQeVat7V1r4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcsab\\Documents\\GitHub\\MI.Labor1\\LAB4_ADONET_SQLite\\Lab4_ADONET_SQLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcsab\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\mcsab\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

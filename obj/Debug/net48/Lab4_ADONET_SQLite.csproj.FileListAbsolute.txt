@@ -1,0 +1,12 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\bin\Debug\net48\Lab4_ADONET_SQLite.exe.config
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\bin\Debug\net48\Lab4_ADONET_SQLite.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\bin\Debug\net48\Lab4_ADONET_SQLite.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.csproj.AssemblyReference.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.AssemblyInfoInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.AssemblyInfo.cs
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADO.B47AA0C1.Up2Date
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\LAB4_ADONET_SQLite\obj\Debug\net48\Lab4_ADONET_SQLite.pdb
